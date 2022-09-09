@@ -45,7 +45,7 @@ Now you can start working:
 ![Application Preview](./images/sneakpeek.gif)
 
 ## Link to the video
-[Link to the video](https://drive.google.com/)
+[Link to the video](https://drive.google.com/file/d/1edvY4EUD7txMueGU1QCwTUjxNurVLfP1/view)
 
 ## Techs
 * Javascript
